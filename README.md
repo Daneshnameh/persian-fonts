@@ -1,8 +1,8 @@
 @font-face {
-  font-family: 'Vaz0';
-  src: url('/fonts/Vaz0.ttf') format('truetype'),
-       url('/fonts/Vaz0.woff') format('woff');
-  font-weight: 100 900;
-  font-style: normal;
-  font-display: swap;
+	font-family: 'TitrB';
+	src: url('//cdn.jsdelivr.net/gh/Daneshnameh/persian-fonts@main/Vaz0.woff') format('woff'),
+	url('//cdn.jsdelivr.net/gh/Daneshnameh/persian-fonts@main/Vaz0.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: bold;
+	font-display: swap;
 }
