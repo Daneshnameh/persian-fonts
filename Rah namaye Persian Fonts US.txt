@@ -1,0 +1,17 @@
+Font Organization Guide
+=======================
+
+Font Naming Convention:
+- Fonts are numbered from 0 to 8 based on weight
+- 0 = Boldest/Heaviest weight
+- 8 = Lightest/Thinnest weight
+
+File Formats:
+- Available in TTF and WOFF formats
+- Located in the 'persian-fonts' subdirectory
+
+Usage Examples:
+- vaz0: Boldest font, suitable for headers and titles
+- vaz8: Lightest font, ideal for footers and secondary text
+
+This system provides a complete weight spectrum from extra-bold to extra-light for comprehensive typographic hierarchy.
